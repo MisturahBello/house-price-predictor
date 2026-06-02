@@ -1,4 +1,4 @@
-House Price Predictor
+## House Price Predictor
 
 An end-to-end machine learning pipeline predicting house prices using the Ames Housing dataset.
 
